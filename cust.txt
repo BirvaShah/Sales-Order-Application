@@ -1,0 +1,12 @@
+1|John Smith|123 Here Street|456-4567
+2|Sue Jones|43 Rose Court Street|345-7867
+3|Sue Smith Yuhong|165 Happy Lane|345-4533
+4|Dan Woo|46 Boose Street|345-9080
+5|Billy Boo|19 Gomer Court|345-1113
+6|Tom Jones|4445 Sue Lane|356-7895
+7|Mohammed Falah|4560 Gaff Road|456-4533
+8|Tammy Zifa|19 Threp Road|345-4443
+9|Moo Doo|2 Pizza Place|345-5677
+10|Sam Bo|456 Dale Place|345-9872
+11|Mike Faiza|234 Call Road|456-5647
+
